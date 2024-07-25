@@ -1,0 +1,153 @@
+launch_name,payloads,rocket_name,launchpad_name,launchpad_region,launchpad_geo,landpad_name,landpad_type,landpad_region,landpad_geo,outcome
+CRS-5,"{'type': 'Dragon 1.1', 'mass': 2395, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI-1,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-6,"{'type': 'Dragon 1.1', 'mass': 1898, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI-1,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-7,"{'type': 'Dragon 1.1', 'mass': 1952, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Failure
+OG-2 Mission 2,"{'type': 'Satellite', 'mass': 2034, 'orbit': 'LEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Jason 3,"{'type': 'Satellite', 'mass': 553, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+SES-9,"{'type': 'Satellite', 'mass': 5271, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-8,"{'type': 'Dragon 1.1', 'mass': 3136, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+JCSAT-2B,"{'type': 'Satellite', 'mass': 4696, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Thaicom 8,"{'type': 'Satellite', 'mass': 3100, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+ABS-2A / Eutelsat 117W B,"{'type': 'Satellite', 'mass': 3600, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-9,"{'type': 'Dragon 1.1', 'mass': 2257, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+JCSAT-16,"{'type': 'Satellite', 'mass': 4600, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Amos-6,"{'type': 'Satellite', 'mass': 5500, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Failure
+Iridium NEXT Mission 1,"{'type': 'Satellite', 'mass': 9600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-10,"{'type': 'Dragon 1.1', 'mass': 2490, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+SES-10,"{'type': 'Satellite', 'mass': 5300, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+NROL-76,"{'type': 'Satellite', 'mass': None, 'orbit': 'LEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+CRS-11,"{'type': 'Dragon 1.1', 'mass': 2708, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+BulgariaSat-1,"{'type': 'Satellite', 'mass': 3669, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Iridium NEXT Mission 2,"{'type': 'Satellite', 'mass': 9600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-12,"{'type': 'Dragon 1.1', 'mass': 3310, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+FormoSat-5,"{'type': 'Satellite', 'mass': 5875, 'orbit': 'SSO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Boeing X-37B OTV-5,"{'type': 'Satellite', 'mass': 4990, 'orbit': 'LEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Iridium NEXT Mission 3,"{'type': 'Satellite', 'mass': 9600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+SES-11 / Echostar 105,"{'type': 'Satellite', 'mass': 5200, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+KoreaSat 5A,"{'type': 'Satellite', 'mass': 3700, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-13,"{'type': 'Dragon 1.1', 'mass': 2205, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+ZUMA,"{'type': 'Satellite', 'mass': None, 'orbit': 'LEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Falcon Heavy Test Flight,"{'type': 'Satellite', 'mass': 1350, 'orbit': 'HCO'}",Falcon Heavy,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+TESS,"{'type': 'Satellite', 'mass': 362, 'orbit': 'HEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Bangabandhu-1,"{'type': 'Satellite', 'mass': 3750, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Telstar 19V,"{'type': 'Satellite', 'mass': 7076, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Iridium NEXT Mission 7,"{'type': 'Satellite', 'mass': 9600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Merah Putih,"{'type': 'Satellite', 'mass': 5800, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Telstar 18V,"{'type': 'Satellite', 'mass': 7060, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+SAOCOM 1A,"{'type': 'Satellite', 'mass': 2800, 'orbit': 'SSO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+Es’hail 2,"{'type': 'Satellite', 'mass': 5300, 'orbit': 'GTO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+SSO-A,"{'type': 'Satellite', 'mass': 4000, 'orbit': 'SSO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-16,"{'type': 'Dragon 1.1', 'mass': 2573, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Iridium NEXT Mission 8,"{'type': 'Satellite', 'mass': 9600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Nusantara Satu (PSN-6) / S5 / Beresheet,"{'type': 'Satellite', 'mass': 5645, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CCtCap Demo Mission 1,"{'type': 'Crew Dragon', 'mass': 12259, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+ArabSat 6A,"{'type': 'Satellite', 'mass': 6465, 'orbit': 'GTO'}",Falcon Heavy,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-17,"{'type': 'Dragon 1.1', 'mass': 2482, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink v0.9,"{'type': 'Satellite', 'mass': 13620, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+RADARSAT Constellation,"{'type': 'Satellite', 'mass': 1425, 'orbit': 'SSO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+STP-2,"{'type': 'Satellite', 'mass': 2841, 'orbit': 'LEO'}",Falcon Heavy,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-18,"{'type': 'Dragon 1.1', 'mass': 2227.7, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Starlink-1,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-19,"{'type': 'Dragon 1.1', 'mass': 2617, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+JCSat 18 / Kacific 1,"{'type': 'Satellite', 'mass': 6956, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-2,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-3,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-4,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-20,"{'type': 'Dragon 1.1', 'mass': 1977, 'orbit': 'ISS'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Starlink-5,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-6,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CCtCap Demo Mission 2,"{'type': 'Crew Dragon', 'mass': 12530, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-7,"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink-8 & SkySat 16-18,"{'type': 'Satellite', 'mass': 15410, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+GPS III SV03 (Columbus),"{'type': 'Satellite', 'mass': 4311, 'orbit': 'MEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+ANASIS-II,"{'type': 'Satellite', 'mass': 5500, 'orbit': 'GEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink-9 (v1.0) & BlackSky Global 5-6,"{'type': 'Satellite', 'mass': 15712, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-10 (v1.0) & SkySat 19-21,"{'type': 'Satellite', 'mass': 15440, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+"SAOCOM 1B, GNOMES-1, Tyvak-0172","{'type': 'Satellite', 'mass': 3130, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Starlink-11 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-12 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-13 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-14 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+GPS III SV04 (Sacagawea),"{'type': 'Satellite', 'mass': 3681, 'orbit': 'MEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Crew-1,"{'type': 'Crew Dragon', 'mass': 12500, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Sentinel-6 Michael Freilich,"{'type': 'Satellite', 'mass': 1192, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+Starlink-15 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-21,"{'type': 'Dragon 2.0', 'mass': 2972, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+SXM-7,"{'type': 'Satellite', 'mass': 7000, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+NROL-108,"{'type': 'Satellite', 'mass': None, 'orbit': None}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Turksat 5A,"{'type': 'Satellite', 'mass': 3500, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink-16 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Transporter-1,"{'type': 'Satellite', 'mass': 5000, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-18 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-19 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-17 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-20 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink-21 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-22 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-23 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Crew-2,"{'type': 'Crew Dragon', 'mass': None, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-24 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink-25 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-27 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-26 (v1.0) + Capella-6 + Tyvak-0130,"{'type': 'Satellite', 'mass': 13632, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink-28 (v1.0),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+CRS-22 & IROSA,"{'type': 'Dragon 2.0', 'mass': 3328, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+SXM-8,"{'type': 'Satellite', 'mass': 7000, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+GPS III SV05,"{'type': 'Satellite', 'mass': 3681, 'orbit': 'MEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Transporter-2,"{'type': 'Satellite', 'mass': None, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+CRS-23,"{'type': 'Dragon 2.0', 'mass': 2200, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 2-1 (v1.5),"{'type': 'Satellite', 'mass': 15600, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Inspiration4,"{'type': 'Crew Dragon', 'mass': 12519, 'orbit': 'LEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Crew-3,"{'type': 'Crew Dragon', 'mass': 12510, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-1 (v1.5),"{'type': 'Satellite', 'mass': 15635, 'orbit': 'LEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+DART,"{'type': 'Satellite', 'mass': 670, 'orbit': 'TLI'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-3 (v1.5),"{'type': 'Satellite', 'mass': 11260, 'orbit': 'PO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+IXPE,"{'type': 'Satellite', 'mass': 325, 'orbit': 'LEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-4 (v1.5),"{'type': 'Satellite', 'mass': 13470, 'orbit': 'PO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Türksat 5B,"{'type': 'Satellite', 'mass': 3500, 'orbit': 'GTO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+CRS-24,"{'type': 'Dragon 2.0', 'mass': 2989, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-5 (v1.5),"{'type': 'Satellite', 'mass': 14356, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Transporter-3,"{'type': 'Satellite', 'mass': None, 'orbit': 'LEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Starlink 4-6 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+CSG-2,"{'type': 'Satellite', 'mass': 2240, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+NROL-87,"{'type': 'Satellite', 'mass': None, 'orbit': 'LEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+Starlink 4-7 (v1.5),"{'type': 'Satellite', 'mass': 14260, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-8 (v1.5),"{'type': 'Satellite', 'mass': 12730, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-11 (v1.5),"{'type': 'Satellite', 'mass': 14760, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-9 (v1.5),"{'type': 'Satellite', 'mass': 13960, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-10 (v1.5),"{'type': 'Satellite', 'mass': 14160, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-12 (v1.5),"{'type': 'Satellite', 'mass': 16250, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Transporter-4,"{'type': 'Satellite', 'mass': 12690, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Ax-1,"{'type': 'Dragon 2.0', 'mass': 13400, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+NROL-85,"{'type': 'Satellite', 'mass': 4567, 'orbit': 'LEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+Starlink 4-14 (v1.5),"{'type': 'Satellite', 'mass': 16145, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Crew-4,"{'type': 'Crew Dragon', 'mass': 12756, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-16 (v1.5),"{'type': 'Satellite', 'mass': 16070, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-17 (v1.5),"{'type': 'Satellite', 'mass': 16795, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-13 (v1.5),"{'type': 'Satellite', 'mass': 13255, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-15 (v1.5),"{'type': 'Satellite', 'mass': 13275, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-18 (v1.5),"{'type': 'Satellite', 'mass': 13216, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Transporter-5,"{'type': 'Satellite', 'mass': None, 'orbit': 'SSO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success
+Nilesat-301,"{'type': 'Satellite', 'mass': 3938, 'orbit': 'GEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-19 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+SARah 1,"{'type': 'Satellite', 'mass': 2200, 'orbit': 'SSO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success
+Globalstar FM15,"{'type': 'Satellite', 'mass': 650, 'orbit': 'LEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+SES-22,"{'type': 'Satellite', 'mass': 3369, 'orbit': 'MEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-21 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 3-1 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+CRS-25,"{'type': 'Dragon 2.0', 'mass': None, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-22 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 3-2 (v1.5),"{'type': 'Satellite', 'mass': 14100, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-25 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+KPLO,"{'type': 'Satellite', 'mass': 678, 'orbit': 'TLI'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-26 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 3-3 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-27 (v1.5),"{'type': 'Satellite', 'mass': 16000, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-23 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 3-4 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success
+Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,"{'type': 'Satellite', 'mass': 180, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-2 (v1.5) & Blue Walker 3,"{'type': 'Satellite', 'mass': 14760, 'orbit': 'VLEO'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success
+Starlink 4-34 (v1.5),"{'type': 'Satellite', 'mass': 16100, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Starlink 4-35 (v1.5),"{'type': 'Satellite', 'mass': 13260, 'orbit': 'VLEO'}",Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
+Crew-5,"{'type': 'Crew Dragon', 'mass': None, 'orbit': 'ISS'}",Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success
